@@ -1,13 +1,13 @@
-# picture_admin
+# Picture-Admin :camera:
 
 The idea is to have a database of picture storage. An admin could view,upload and edit the pictures and users. 
 
 ## Getting Started
 
-In a 4 days span I am building a full stack app. 
+In a 4 days span I am building a full stack app that would do the crud function both showing the pictures and user. Also you can analyze the data on how many pictures was upload and viewed.  
 
 
-## Built With
+## Built With :closed_lock_with_key:
 
 * XAMPP
 * PHP
@@ -16,7 +16,7 @@ In a 4 days span I am building a full stack app.
 
 
 
-## Trello Board 
+## Trello Board :shipit:
 * [Trello](https://trello.com/b/pSGYskXN/picture-database)
 
 ## Authors
